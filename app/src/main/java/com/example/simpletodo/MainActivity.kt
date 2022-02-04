@@ -61,7 +61,7 @@ class MainActivity : AppCompatActivity() {
 
         //Attach the adapter to the recyclerview to populate item
         recyclerView.adapter = adapter
-wqgi
+
 
         // Set layout manager to position the items
         recyclerView.layoutManager = LinearLayoutManager(this)
